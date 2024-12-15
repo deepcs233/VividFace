@@ -3,7 +3,7 @@
 
 ***“Revolutionize Video Face Swapping with Robost, Diffusion-Powered, Temporal Consistency-Driven Innovation!”*** 
 
-![pipeline](assets/pipeline.jpg)
+![pipeline](assets/pipeline.png)
 
 
 This repository contains code for the paper [VividFace: A Diffusion-Based Hybrid Framework for High-Fidelity Video Face Swapping]().
